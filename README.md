@@ -19,6 +19,6 @@ Navigate to the downloaded repository folder after the program finishes.
 
 You can use the provided bash script to place the vimrc file in the appropriate location and make it effective.
 
-    ./setup.sh
+    ./setup
 
 Configuration complete.
